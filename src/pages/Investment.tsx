@@ -16,7 +16,7 @@ const Investment = () => {
       funded: 78,
       totalRequired: 'Rs. 50M',
       investors: 234,
-      image: 'https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://new2.powerconsult.lk/wp-content/uploads/2023/10/diga.jpg',
       description: 'Large-scale solar infrastructure connecting 15 communities in Kandy district.'
     },
     {
@@ -30,7 +30,7 @@ const Investment = () => {
       funded: 65,
       totalRequired: 'Rs. 20M',
       investors: 156,
-      image: 'https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://i0.wp.com/solarvillageproject.org/wp-content/uploads/2023/03/4C-scaled.jpg?fit=2560%2C1707&ssl=1',
       description: 'Help rural families install solar systems through microfinancing.'
     },
     {
@@ -44,7 +44,7 @@ const Investment = () => {
       funded: 42,
       totalRequired: 'Rs. 35M',
       investors: 89,
-      image: 'https://images.pexels.com/photos/9875474/pexels-photo-9875474.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://thumbs.dreamstime.com/b/solar-panels-roof-front-lotus-tower-colombo-lotus-tower-solar-panels-colombo-377005868.jpg',
       description: 'Urban solar deployment across commercial buildings in Colombo.'
     },
     {
@@ -58,7 +58,7 @@ const Investment = () => {
       funded: 38,
       totalRequired: 'Rs. 25M',
       investors: 67,
-      image: 'https://images.pexels.com/photos/1459337/pexels-photo-1459337.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://balkangreenenergynews.com/wp-content/uploads/2022/05/Agro-solar-innovation.jpg',
       description: 'Combining agriculture with solar panels for maximum land efficiency.'
     }
   ];

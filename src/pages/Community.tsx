@@ -82,7 +82,7 @@ const Community = () => {
       generated: '2,847 kWh',
       investment: 'Rs. 50,000 min',
       returns: '12.5% APY',
-      image: 'https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://www.hayleyssolar.com/wp-content/uploads/2020/09/Solar-Kandy-1.jpg.webp',
       status: 'active',
       progress: 78
     },
@@ -95,7 +95,7 @@ const Community = () => {
       generated: '1,923 kWh',
       investment: 'Rs. 25,000 min',
       returns: '11.8% APY',
-      image: 'https://share.google/images/EwPEFubkWI86jYY3D',
+      image: 'http://island.lk/wp-content/uploads/2024/11/First-ever-floating-solar-photovoltaic-power-plants.jpg',
       status: 'active',
       progress: 65
     },
@@ -108,7 +108,7 @@ const Community = () => {
       generated: '4,156 kWh',
       investment: 'Rs. 75,000 min',
       returns: '13.2% APY',
-      image: 'https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/media/images/image_1493017223-0b8fe824c5.jpg',
       status: 'fundraising',
       progress: 45
     }
@@ -124,7 +124,7 @@ const Community = () => {
       landSize: '2.5 acres',
       solarCapacity: '100 kW',
       monthlyIncome: 'Rs. 45,000',
-      image: 'https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=400'
+      image: 'https://www.shutterstock.com/image-photo/small-panel-installed-beside-rice-260nw-2236305205.jpg'
     },
     {
       id: 2,
@@ -135,7 +135,7 @@ const Community = () => {
       landSize: '1.8 acres',
       solarCapacity: '75 kW',
       monthlyIncome: 'Rs. 38,000',
-      image: 'https://images.pexels.com/photos/1459337/pexels-photo-1459337.jpeg?auto=compress&cs=tinysrgb&w=400'
+      image: 'https://www.agritecture.com/hubfs/Imported_Blog_Media/Agrivoltaic-Jacks-Solar-Farm-Photo-by-Werner-Slocum-NREL-3.jpeg'
     }
   ];
 
