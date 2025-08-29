@@ -47,13 +47,12 @@ A **peer-to-peer solar trading platform** where excess energy from rooftops and 
 ## ⚙️ Backend (Ballerina)  
 - 🔑 **JWT Authentication** with token validation  
 - 📝 Endpoints:  
-  - `POST /auth/signup` – Register user  
-  - `POST /auth/signin` – Authenticate & get JWT  
-  - `POST /auth/forgot-password` – Reset password  
-  - `POST /auth/verify` – Verify token  
-- 🛡️ Password hashing & secure credential handling  
-- 🌍 CORS enabled for frontend integration  
-- 🐞 Comprehensive error handling & logging  
+  - `POST /api/signup` – Register user  
+  - `POST /api/login` – Login user
+  - `POST /api/profile` - Profile
+  - `POST /api/forgot` - Forgot Password
+  - `POST /api/reset` – Reset password  
+  
 
 
 ## 🚀 Getting Started
@@ -85,10 +84,3 @@ cd backend
 bal run
 ```
 
-
-**Demo Credentials**:  
-```bash
-Email: demo@solarshare.lk  
-Password: demo123
-
-```
